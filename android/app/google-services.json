@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "480763761159",
+    "project_id": "goltens-application",
+    "storage_bucket": "goltens-application.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480763761159:android:0bbe31555c7d34700010a2",
+        "android_client_info": {
+          "package_name": "com.goltens.goltens_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480763761159-2kkfjm8vvirn3f9u4svbr4us5jrh62em.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdVHfzn6qWD-SmwJnHh8taXfmwRKTs268"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "480763761159-2kkfjm8vvirn3f9u4svbr4us5jrh62em.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "480763761159-huqa40iqj9o71lsmboblmn2rq83go21p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.goltensCommunication"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
